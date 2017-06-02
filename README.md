@@ -16,3 +16,5 @@
 <pre><code>python ants.py</code></pre>
 
 ## 游戏提供两种运行方式：命令行游戏和带GUI的游戏<br/>如果想要进行带有GUI界面的游戏的话，请运行ants_gui.py
+
+### ***此外，本项目的任务要求与问题在ants.html中***
