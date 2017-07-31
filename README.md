@@ -9,14 +9,23 @@
 ### 运行命令行参数：
 
 * '-h'：输出帮助信息
+
 `python ants.py -h`
+
 * '-f'：进行一个完全的游戏
+
 `python ants.py -f`
+
 * '-w'：进行一个带有水的游戏
+
 `python ants.py -f -w`
+
 * '-i'：进行疯狂模式的游戏
+
 `python ants.py -i`
+
 * ***不加'-h'命令只会进入一个只有两个敌人的游戏样本，这个样本是在开发时调试用的***
+
 `python ants.py`
 
 ## 游戏提供两种运行方式：命令行游戏和带GUI的游戏<br/>如果想要进行带有GUI界面的游戏的话，请运行ants_gui.py
